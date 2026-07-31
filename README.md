@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lakshmidath&label=Profile%20Views&color=00F7FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lakshmidath-S&label=Profile%20Views&color=00F7FF&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-brightgreen" />
 </p>
 
@@ -35,7 +35,7 @@ Currently, I'm focused on becoming a strong software engineer through consistent
 - 💡 Building products that solve real-world problems
 - 🤖 AI & Large Language Models
 - 🔗 Blockchain & Web3 applications
-- ⚙️ Backend systems and APIs
+- ✨ Vibe coder
 - 📊 Writing efficient algorithms
 - 📚 Learning technologies from first principles
 
@@ -158,12 +158,12 @@ I enjoy experimenting with new technologies and turning interesting ideas into p
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshmidath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmidath&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshmidath-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmidath-S&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmidath&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmidath-S&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 ---
@@ -178,5 +178,5 @@ I enjoy experimenting with new technologies and turning interesting ideas into p
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshmidath-s-936236357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="lakshmidathlachu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:lakshmidathlachu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
