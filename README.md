@@ -12,9 +12,9 @@
 
 ```text
 while(alive){
-    learn();
-    build();
-    solve_real_world_problems();
+    learn(Ai);
+    build(Ai);
+    solve_real_world_problems(Ai);
 }
 ```
 
