@@ -1,0 +1,35 @@
+name: Update NeetCode Progress
+
+on:
+  schedule:
+    # every day at 18:30 UTC (~midnight IST)
+    - cron: "30 18 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update progress bar + README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_progress.py
+
+      - name: Commit changes if anything moved
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/neetcode-progress.svg
+          git diff --cached --quiet || git commit -m "chore: sync NeetCode progress"
+          git push
