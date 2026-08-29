@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="120" viewBox="0 0 420 120">
+  <rect width="420" height="120" rx="8" fill="#161b22"/>
+  <text x="210" y="65" font-family="Fira Code, Consolas, monospace" font-size="13" fill="#8b949e" text-anchor="middle">
+    Generating&#8230; run the "Update GitHub Stats Cards" workflow
+  </text>
+</svg>
