@@ -61,7 +61,6 @@ Currently, I'm focused on becoming a strong software engineer through consistent
 <p align="center"><sub>Auto-updated from <a href="https://github.com/lakshmidath-S/neetcode-submissions">neetcode-submissions</a> · last synced 2026-08-29 UTC</sub></p>
 <!--NEETCODE:END-->
 
-<p align="center"><i>Counted straight from my <a href="https://github.com/lakshmidath-S/neetcode-submissions">submissions repo</a> — one folder per problem solved. A GitHub Action re-syncs this daily.</i></p>
 
 ---
 
