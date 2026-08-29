@@ -77,7 +77,7 @@ Blockchain-based certificate verification platform using smart contracts, crypto
 </td>
 <td width="50%">
 
-**🛒 AI Voice Billing Assistant** *(In Progress)*
+**🛒 RetailMind AI** *(In Progress)*
 Smartphone-based billing assistant that understands Malayalam speech and generates English product names using optimized speech models and AI.
 
 `Whisper` `Python` `Mobile AI` `LLMs`
