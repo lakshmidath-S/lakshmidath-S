@@ -51,6 +51,20 @@ Currently, I'm focused on becoming a strong software engineer through consistent
 
 ---
 
+### 🧮 NeetCode Progress
+
+<!--NEETCODE:START-->
+<p align="center">
+  <img src="./assets/neetcode-progress.svg" alt="NeetCode progress: 108/300" />
+</p>
+<p align="center"><code>███████░░░░░░░░░░░░</code>  <b>108 / 300</b> (36%)</p>
+<p align="center"><sub>Auto-updated from <a href="https://github.com/lakshmidath-S/neetcode-submissions">neetcode-submissions</a> · last synced 2026-08-29 UTC</sub></p>
+<!--NEETCODE:END-->
+
+<p align="center"><i>Counted straight from my <a href="https://github.com/lakshmidath-S/neetcode-submissions">submissions repo</a> — one folder per problem solved. A GitHub Action re-syncs this daily.</i></p>
+
+---
+
 ### 🚧 Projects
 
 <table>
@@ -148,7 +162,7 @@ I enjoy experimenting with new technologies and turning interesting ideas into p
 ### 🎯 2026 Goals
 
 - [ ] Crack a Software Engineering role
-- [ ] Reach 300+ quality DSA problems solved
+- [ ] Reach 300+ quality DSA problems solved — [live progress ↑](#-neetcode-progress)
 - [ ] Build production-ready AI applications
 - [ ] Contribute to open source
 - [ ] Keep learning something new every week
