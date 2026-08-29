@@ -24,7 +24,7 @@ while(alive){
 
 I'm a Computer Science Engineering student at **MACE Kothamangalam** who enjoys turning ideas into products.
 
-I love exploring the intersection of **AI, backend systems, blockchain, and software engineering**. Whether it's optimizing speech models for mobile devices, building decentralized applications, or solving algorithmic problems, I'm always interested in understanding how things work internally rather than just using them.
+I love exploring the intersection of **AI, software systems, blockchain, and software engineering**. Whether it's optimizing speech models for mobile devices, building decentralized applications, or solving algorithmic problems, I'm always interested in understanding how things work internally rather than just using them.
 
 Currently, I'm focused on becoming a strong software engineer through consistent DSA practice, hands-on projects, and continuous learning.
 
