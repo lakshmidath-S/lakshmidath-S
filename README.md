@@ -169,11 +169,11 @@ I enjoy experimenting with new technologies and turning interesting ideas into p
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=lakshmidath-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=lakshmidath-S&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/streak.svg" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lakshmidath-S&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="./profile/top-langs.svg" width="55%" />
 </p>
 
 ---
