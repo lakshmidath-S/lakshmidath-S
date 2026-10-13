@@ -55,10 +55,10 @@ Currently, I'm focused on becoming a strong software engineer through consistent
 
 <!--NEETCODE:START-->
 <p align="center">
-  <img src="./assets/neetcode-progress.svg" alt="NeetCode progress: 184/300" />
+  <img src="./assets/neetcode-progress.svg" alt="NeetCode progress: 186/300" />
 </p>
-<p align="center"><code>████████████░░░░░░░░</code>  <b>184 / 300</b> (61%)</p>
-<p align="center"><sub>Auto-updated from <a href="https://github.com/lakshmidath-S/neetcode-submissions">neetcode-submissions</a> · last synced 2026-10-11 UTC</sub></p>
+<p align="center"><code>████████████░░░░░░░░</code>  <b>186 / 300</b> (62%)</p>
+<p align="center"><sub>Auto-updated from <a href="https://github.com/lakshmidath-S/neetcode-submissions">neetcode-submissions</a> · last synced 2026-10-13 UTC</sub></p>
 <!--NEETCODE:END-->
 
 
