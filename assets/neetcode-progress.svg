@@ -6,6 +6,6 @@
     </linearGradient>
   </defs>
   <rect x="12" y="9" width="596" height="16" rx="8" fill="#2b2b2b"/>
-  <rect x="12" y="9" width="372" height="16" rx="8" fill="url(#fill)"/>
-  <text x="310.0" y="28" font-family="Fira Code, Consolas, monospace" font-size="12" fill="#8b949e" text-anchor="middle">187 / 300 solved  •  62%</text>
+  <rect x="12" y="9" width="375" height="16" rx="8" fill="url(#fill)"/>
+  <text x="310.0" y="28" font-family="Fira Code, Consolas, monospace" font-size="12" fill="#8b949e" text-anchor="middle">189 / 300 solved  •  63%</text>
 </svg>
